@@ -2,7 +2,7 @@
 ![01- Inicio_page-0001](https://user-images.githubusercontent.com/107259913/197054800-216ac3a2-3210-4315-a7cc-177e9ef42059.jpg)
 
 
-#LINK TO THE APP https://stately-tarsier-58235a.netlify.app/ #
+LINK TO THE APP https://stately-tarsier-58235a.netlify.app/ 
 
 Reduce es una aplicación orientada a la obtención de la ruta más ecológica en transporte urbano para ayudar a reducir las emisiones de CO2. Nuestro objetivo es fomentar la generación de hábitos sostenibles a través del impacto ecológico de nuestro trayecto visible en la app.
 
